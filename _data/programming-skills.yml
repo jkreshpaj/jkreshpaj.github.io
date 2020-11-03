@@ -1,0 +1,28 @@
+- name: HTML5/CSS3
+  percentage: 100
+  color: orange
+
+- name: Javascript/NodeJS
+  percentage: 100
+  color: success
+
+- name: Angular, React, VueJS
+  percentage: 85
+  color: danger
+
+- name: Docker, Kuberenetes, Vagrant
+  percentage: 85
+  color: danger
+
+- name: Python
+  percentage: 80
+  color: dark
+
+- name: Go
+  percentage: 70
+  color: blue
+
+- name: Deep Learning
+  percentage: 50
+  color: blue
+

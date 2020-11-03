@@ -1,0 +1,15 @@
+- name: Adobe Illustrator
+  percentage: 90
+  color: success
+
+- name: Adobe XD
+  percentage: 90
+  color: success
+
+- name: Adobe Photoshop
+  percentage: 70
+  color: info
+
+- name: Adobe After Effects
+  percentage: 90
+  color: success
