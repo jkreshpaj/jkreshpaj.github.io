@@ -572,3 +572,6 @@ body { font-family: "Poppins", sans-serif; }
 .circle-image { width: 80%; height: 80%; }
 
 #attribution { display: none; }
+
+body.dark { background: #222; }
+body.dark .nav-brand { color: #DDD; }

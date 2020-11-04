@@ -8,7 +8,10 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+software engineer with 5 years of experience in software development using the newest technologies
+and best design patters. This blog includes my own reflections and experiences regarding software
+development and related topics drawn from my work, personal projects and elsewhere. It also serves
+as a place where i can record lessons learned and other interesting tidbits.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}

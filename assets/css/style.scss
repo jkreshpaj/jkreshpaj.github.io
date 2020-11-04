@@ -11,3 +11,10 @@
 #attribution {
   display: none;
 }
+
+body.dark {
+  background: #222;
+  .nav-brand {
+    color: #DDD;
+  }
+}
