@@ -1,10 +1,10 @@
-- name: HTML5/CSS3
-  percentage: 100
-  color: primary
+# - name: HTML5/CSS3
+#   percentage: 100
+#   color: primary
 
 - name: Javascript/NodeJS
   percentage: 100
-  color: primary
+  color: yellow
 
 - name: Angular, React, VueJS
   percentage: 85
